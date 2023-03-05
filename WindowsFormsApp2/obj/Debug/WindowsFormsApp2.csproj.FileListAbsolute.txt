@@ -1,0 +1,11 @@
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\kuliah\Semester 4\Praktikum Kontruksi Perangkat Lunak\TPmodul3_1302210086\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
